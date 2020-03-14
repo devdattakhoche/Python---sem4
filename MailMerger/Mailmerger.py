@@ -1,7 +1,0 @@
-file1  = open('Name.txt')
-data1 = file1.read()
-file2  = open('Body.txt')
-data2 = file2.read()
-print(data1 +','+ '\n' + data2)
-file1.close()
-file2.close()
